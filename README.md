@@ -246,22 +246,6 @@ Through this project, I gained practical experience in:
 
 ---
 
-# Screenshots
-
-## Home Page
-
-Upload resume through Streamlit dashboard.
-
-## Extracted Information
-
-Display candidate details in structured format.
-
-## Export Options
-
-Download extracted data as CSV or JSON.
-
----
-
 # Author
 
 **Mithu Misra**
